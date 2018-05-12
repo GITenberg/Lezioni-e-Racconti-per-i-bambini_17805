@@ -1,0 +1,28 @@
+_repo: Lezioni-e-Racconti-per-i-bambini_17805
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 17805-h/images/cover_t.jpg
+creator:
+  author:
+    agent_name: Baccini, Ida
+    birthdate: 1850
+    deathdate: 1911
+    gutenberg_agent_id: '7611'
+    url: http://www.gutenberg.org/2009/agents/7611
+description: ''
+gutenberg_bookshelf: IT Letteratura per ragazzi
+gutenberg_issued: '2006-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17805'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+- !lcsh 'Readers'
+title: Lezioni e Racconti per i bambini
+url: http://www.gutenberg.org/ebooks/17805
